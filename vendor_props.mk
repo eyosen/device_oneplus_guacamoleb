@@ -6,6 +6,7 @@
 
 # Display
 PRODUCT_PROPERTY_OVERRIDES += \
+    vendor.display.enable_optimize_refresh=1 \
     ro.sf.lcd_density=420 \
     vendor.display.disable_mask_layer_hint=1
 
