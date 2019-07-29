@@ -30,3 +30,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.build.real.device=true \
     vendor.product.device=guacamoleb \
     vendor.product.manufacturer=OPD
+
+# PASR
+PRODUCT_PROPERTY_OVERRIDES += \
+		vendor.power.pasr.enabled=true
