@@ -374,4 +374,6 @@
 
     <!-- Whether to show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
+
+    <bool name="config_deviceHaveWakeUpProximity">true</bool>
 </resources>
