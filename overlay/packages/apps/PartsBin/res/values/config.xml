@@ -42,4 +42,7 @@
     <integer name="vibratorMinMV">0</integer>
     <integer name="vibratorMaxMV">5</integer>
     <integer name="vibratorDefaultMV">3</integer>
+
+    <!-- Path to devices FastCharge sysfs -->
+    <string name="pathFastChargeToggle">/sys/kernel/fast_charge/force_fast_charge</string>
 </resources>
