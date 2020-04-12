@@ -23,4 +23,7 @@
 
     <!-- Allow devices to use unordinary cutout overlays -->
     <bool name="config_customCutout">true</bool>
+
+    <!-- Whether to use fingerprint pressed image -->
+    <bool name="config_fodPressedImage">true</bool>
 </resources>
