@@ -39,7 +39,7 @@ TARGET_VENDOR := oneplus
 TW_USE_TOOLBOX := true
 
 # Build info
-BUILD_FINGERPRINT := "OnePlus/OnePlus7/OnePlus7:10/QKQ1.190716.003/2003131900:user/release-keys"
+BUILD_FINGERPRINT := "OnePlus/OnePlus7_EEA/OnePlus7:10/QKQ1.190716.003/2003131900:user/release-keys"
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus7 \
     PRODUCT_NAME=OnePlus7 \
