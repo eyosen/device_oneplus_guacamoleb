@@ -28,10 +28,10 @@
     <string name="hbmON">"5"</string>
 
     <!-- Path to devices SRGBMode toggle file -->
-    <string name="pathSRGBModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_srgb_color_mode</string>
+    <string name="pathSRGBModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_customer_srgb_mode</string>
 
     <!-- Path to devices DCIMode toggle file -->
-    <string name="pathDCIModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_p3_mode</string>
+    <string name="pathDCIModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/native_display_customer_p3_mode</string>
 
     <!-- Path to devices DCDMode toggle file -->
     <string name="pathDCDModeToggle">/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dimlayer_bl_en</string>
