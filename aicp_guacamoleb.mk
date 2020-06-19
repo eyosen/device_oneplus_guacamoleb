@@ -18,7 +18,7 @@ $(call inherit-product, vendor/aicp/config/common_full_phone.mk)
 PRODUCT_NAME := aicp_guacamoleb
 PRODUCT_DEVICE := guacamoleb
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7
+PRODUCT_MODEL := OnePlus7
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
