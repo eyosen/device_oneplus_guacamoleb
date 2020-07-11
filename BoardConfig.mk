@@ -15,6 +15,10 @@ TARGET_OTA_ASSERT_DEVICE := OnePlus7
 # Display
 TARGET_SCREEN_DENSITY := 420
 
+# Init
+TARGET_INIT_VENDOR_LIB :=  //$(DEVICE_PATH):libinit_guacamoleb
+TARGET_RECOVERY_DEVICE_MODULES := libinit_guacamoleb
+
 # Kernel
 TARGET_KERNEL_CONFIG := oneplus7_defconfig
 
