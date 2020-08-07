@@ -39,11 +39,11 @@ TARGET_VENDOR := oneplus
 TW_USE_TOOLBOX := true
 
 # Build info
-BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200705.002/6506677:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus7 \
     PRODUCT_NAME=OnePlus7 \
-    PRIVATE_BUILD_DESC="coral-user 10 QQ3A.200705.002 6506677 release-keys"
+    PRIVATE_BUILD_DESC="coral-user 10 QQ3A.200805.001 6578210 release-keys"
 
 PLATFORM_SECURITY_PATCH_OVERRIDE := 2020-07-01
 
