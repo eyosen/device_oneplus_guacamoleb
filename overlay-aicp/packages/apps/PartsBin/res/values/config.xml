@@ -34,6 +34,9 @@
     <!-- Path to devices doubletap to wake toggle file -->
     <string name="pathDoubleTapToWakeToggle">/sys/android_touch/doubletap2wake</string>
 
+    <!-- Path to devices sweep to sleep toggle file -->
+    <string name="pathSweepToSleepToggle">/sys/android_touch/sweep2sleep</string>
+
     <!-- Path to devices sweep to wake toggle file -->
     <string name="pathSweepToWakeToggle">/sys/android_touch/sweep2wake</string>
 
