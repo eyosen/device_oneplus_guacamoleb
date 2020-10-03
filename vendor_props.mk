@@ -33,3 +33,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # PASR
 PRODUCT_PROPERTY_OVERRIDES += \
 		vendor.power.pasr.enabled=true
+
+# Netflix custom property
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.netflix.bsp_rev=Q845-05000-1
