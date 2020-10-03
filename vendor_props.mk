@@ -16,3 +16,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.build.real.device=true \
     vendor.product.device=guacamoleb \
     vendor.product.manufacturer=OPD
+
+# Netflix custom property
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.netflix.bsp_rev=Q845-05000-1
