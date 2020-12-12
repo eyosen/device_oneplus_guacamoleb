@@ -42,10 +42,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NoCutoutOverlay
 
-# Vibrator
-PRODUCT_PACKAGES += \
-    vendor.qti.hardware.vibrator@1.2-service
-
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
